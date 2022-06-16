@@ -1,6 +1,6 @@
 # PROF-NOTE-TAKER
 
-# Homework Assignment - 11 Express.js: Note Taker
+# Homework Assignment - Express.js: Note Taker
 
 ![MIT License](https://img.shields.io/badge/license-MIT%20License-blue.svg)
 
@@ -18,7 +18,7 @@
 
 ## Description
 
-The focus of this homework assignment for the University of Toronto SCS Coding Boot Camp was to modify starter code to create an application called Note Taker that can be used to write and save notes. This application uses an Express.js back end and saves and retrieves note data from a JSON file.
+The focus of this homework assignment for the University of Texas Coding Boot Camp was to modify starter code to create an application called Note Taker that can be used to write and save notes. This application uses an Express.js back end and saves and retrieves note data from a JSON file.
 
 ## Key Features
 
@@ -43,6 +43,6 @@ This product is under the MIT License.
 
 The images below show the application.
 
-![Screenshot of note app landing page.](./public/assets/images/note-taker-screenshot-01.png)
+![Screenshot of note app landing page.](Public/Images/note-taker-screenshot-01.png)
 
-![Screenshot of note app notes page with notes listed.](./public/assets/images/note-taker-screenshot-02.png)
+![Screenshot of note app notes page with notes listed.](Public/Images/note-taker-screenshot-02.png)
